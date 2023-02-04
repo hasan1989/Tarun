@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Bangla&display=swap');
+
+@media only screen and (min-width: 1500px) {
+    body {
+    width: 90vw;
+    padding-left: 10vw;
+    }
+    .about_container {
+      width: 800px;
+      margin: auto;
+    }
+    .carousel-item {
+      height: 80vh;
+    }
+  }
+
+.gap_generate {
+  margin-top: 20px;
+}
+
+.bangla {
+  font-family: 'Tiro Bangla', serif;
+}
+
+  
+
+ 
